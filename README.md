@@ -1,4 +1,4 @@
-Here is a demo : [Demo](https://react-test-rabbitou.vercel.app/)
+Here is a [demo](https://react-test-rabbitou.vercel.app/)
 
 In the project directory, you can run:
 
